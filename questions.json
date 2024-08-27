@@ -1,0 +1,238 @@
+{
+  "heading": "LCM",
+  "topics": [
+    {
+      "heading": "LCM",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Finn examines artifacts that have been enchanted with numbers 72, 140 and 120. What is the LCM of these numbers?",
+            "options": [
+                "2440",
+                "2800",
+                "2520",
+                "2630"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 2,
+            "question": "Lily finds a collection of gemstones marked with numbers 90, 70 and 10. What is the LCM of these numbers?",
+            "options": [
+                "650",
+                "620",
+                "625",
+                "630"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 3,
+            "question": "Finn purchases portions of enchanted elixirs: 120, 180 and 50. What is the total fraction of elixirs Finn buys?",
+            "options": [
+                "1800",
+                "1400",
+                "2000",
+                "2010"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 4,
+            "question": "In the Giants' Market, Lily and Finn come across a stall displaying three gemstones with the numbers 50, 70, and 40 inscribed on them. What is the LCM of these numbers?",
+            "options": [
+                "1600",
+                "1400",
+                "1800",
+                "1500"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 5,
+            "question": "Finn examines gemstones with the numbers 159, 147, and 106. What is the LCM of these numbers?",
+            "options": [
+                "14,592",
+                "14,581",
+                "15,482",
+                "15,582"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 6,
+            "question": "At a stall in the Giants' Market, Finn sees gemstones marked with the numbers 80, 15 and 25. What is the LCM of these numbers?",
+            "options": [
+                "1200",
+                "1800",
+                "1600",
+                "1500"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 7,
+            "question": "Lily and Finn discovered the Giants' Market in a mythical land, where colossal gemstones glowed every 80, 40 and 100 minutes respectively. What is the LCM of these different minutes?",
+            "options": [
+                "400 minutes",
+                "600 minutes",
+                "800 minutes",
+                "300 minutes"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 8,
+            "question": "At another stall, Finn finds artifacts with numbers 85, 100, and 15. What is the LCM of these numbers?",
+            "options": [
+                "5400",
+                "7100",
+                "3100",
+                "5100"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 9,
+            "question": "In the Giants' Market, Lily buys fractions of gemstones: 110, 77 and 44. What is the LCM of gemstones Lily buys?",
+            "options": [
+                "1560",
+                "1540",
+                "1460",
+                "1450"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 10,
+            "question": "In the Giants' Market, Lily and Finn found three magical chests. Each chest opened after a certain number of days: the first chest opened every 36 days, the second chest every 54 days, and the third chest every 72 days. What is the LCM of these different days?",
+            "options": [
+                "170 days",
+                "216 days",
+                "218 days",
+                "310 days"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 11,
+            "question": "In the Giants' Market, there's a rare artifact inscribed with the numbers 64, 500, and 10. What is the LCM of these numbers?",
+            "options": [
+                "13,120",
+                "12,120",
+                "13,130",
+                "13,130"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 12,
+            "question": "At a grand stall with dazzling artifacts, they saw the numbers 323 and 238. Using the division method, they found the LCM. Fill in the number that will come in blank spaces.",
+            "options": [
+                "19",
+                "13",
+                "11",
+                "21"
+            ],
+            "answer": 0,
+            "image":"./assests/images/12.jpg"
+        },
+        {
+            "questionNo": 13,
+            "question": "Lily and Finn saw gemstones marked with the numbers 242 and 253. They used the division method to find the LCM. Fill in the number that will come in blank spaces.",
+            "options": [
+                "15",
+                "21",
+                "11",
+                "23"
+            ],
+            "answer": 2,
+            "image":"./assests/images/13.jpg"
+        },
+        {
+            "questionNo": 14,
+            "question": "They found gigantic statues marked with the numbers 240 and 480. Using the division method, they sought the LCM. Fill in the number that will come in blank spaces.",
+            "options": [
+                "50",
+                "40",
+                "60",
+                "30"
+            ],
+            "answer": 2,
+            "image":"./assests/images/14.jpg"
+        },
+        {
+            "questionNo": 15,
+            "question": "At another stall, they found massive sculptures with numbers 312, 250, 156 and 117 inscribed on them. Find the LCM of these numbers.",
+            "options": [
+                "107,000",
+                "170,000",
+                "117,000",
+                "171,000"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 16,
+            "question": "The next stall had colossal numbers 143 and 195 inscribed on giant scrolls. Using the division method, they tried to find the LCM. Fill in the number that will come in blank spaces.",
+            "options": [
+                "11",
+                "17",
+                "12",
+                "21"
+            ],
+            "answer": 0,
+            "image":"./assests/images/16.jpg"
+        },
+        {
+            "questionNo": 17,
+            "question": "They found ancient artifacts marked with the numbers 255, 315, and 510. They used the division method to find the LCM. Fill in the number that will come in blank spaces.",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "3"
+            ],
+            "answer": 3,
+            "image":"./assests/images/17.jpg"
+        },
+        {
+            "questionNo": 18,
+            "question": "Lily discovers a set of colossal numbers on gemstones: 155, 120, and 16. What is the LCM of these numbers?",
+            "options": [
+                "7720",
+                "7440",
+                "6440",
+                "4460"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "Lily and Finn saw ancient relics marked with the numbers 707, 77, 17 and 7. Find the LCM of these numbers.",
+            "options": [
+                "142,208",
+                "132,209",
+                "122,207",
+                "142,208"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 20,
+            "question": "While exploring deeper into the Giants' Market, Lily and Finn found three ancient clocks. Each clock chimed at different intervals: the first clock chimed every 150 minutes, the second every 75 minutes, and the third every 60 minutes. What is the LCM of these different minutes?",
+            "options": [
+                "400 minutes",
+                "280 minutes",
+                "250 minutes",
+                "300 minutes"
+            ],
+            "answer": 3
+        }
+    ]
+    
+    
+    
+    }
+  ]
+}
